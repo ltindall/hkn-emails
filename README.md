@@ -5,7 +5,7 @@
 ## [Templates](templates)
 This directory has templates for different types of emails sent out by HKN
 officers. 
-+ [newsletter](tempaltes/newsletter_template.html)
++ [newsletter](templates/newsletter_template.html)
 
 + [single event](templates/single_event_template.html)
 
